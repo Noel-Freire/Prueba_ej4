@@ -1,0 +1,5 @@
+Ejercicio 4 de Python
+========
+.. automodule:: ejercicio
+ :members:
+ :show-inheritance: 

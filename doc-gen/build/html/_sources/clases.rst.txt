@@ -1,0 +1,15 @@
+=======
+Classes
+=======
+.. automodule:: model.client
+ :members:
+ :show-inheritance:
+.. automodule:: model.boat
+ :members:
+ :show-inheritance:
+.. automodule:: model.sailing_boat
+ :members:
+ :show-inheritance:
+.. automodule:: model.rental
+ :members:
+ :show-inheritance: 

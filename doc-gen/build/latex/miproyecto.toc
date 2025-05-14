@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Ejercicio 4 de Python}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Classes}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Funciones de utilidad}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Comprobadores de formato}{7}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Indices and tables}{9}{chapter.4}%
+\contentsline {chapter}{Índice de Módulos Python}{11}{section*.5}%
+\contentsline {chapter}{Índice}{13}{section*.6}%
